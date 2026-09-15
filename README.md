@@ -51,4 +51,4 @@ No real patient or animal images are used by this Space. Please upload only de-i
 
 ## Maintainer
 
-Dan Ngugi — Biomedical Scientist, Mombasa County Government; MSc Molecular Medicine, KEMRI Centre for Biotechnology Research and Development.
+Dan Ngugi — Biomedical Scientist,; MSc Molecular Medicine, KEMRI Centre for Biotechnology Research and Development.
